@@ -1,6 +1,6 @@
 # led-collar
 LED Collar
-Follow the steps in the tutorial to build the project - https://www.circuito.io/blog/led-collar/
+Follow the steps in the tutorial to build the project - https://www.circuito.io/blog/ldr-controlled-led-collar/
 To use the code:
 1. Download the test code from  the "code" tab. 
 
